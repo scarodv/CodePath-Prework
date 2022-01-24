@@ -1,0 +1,7 @@
+#Mon Jan 17 03:16:36 BOT 2022
+base.1=D\:\\Documents\\Code Stuff 2.0\\Android Studio Setup\\android_hello_world\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+path.1=1/classes.dex
+base.0=D\:\\Documents\\Code Stuff 2.0\\Android Studio Setup\\android_hello_world\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex
